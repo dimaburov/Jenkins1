@@ -9,7 +9,7 @@ class Aggregator {
      * @param value number to add to the sum
      */
     void addValue(double value) {
-        sum += value*5;
+        sum += value*2;
     }
 
     /**
